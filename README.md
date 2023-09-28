@@ -2,12 +2,10 @@
 
 <!---
 <img align="right" src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+
 --->
 
-<!---
 ![counter](https://profile-counter.glitch.me/Kuznetsov-Artyom/count.svg)
---->
-
 
 ## About me
 * Student of the University named after Lobachevsky.
@@ -28,9 +26,14 @@
 ## Сontacts
 
 <div align="left">
-<a href="mailto:artyomka_working@mail.ru" target="_blank">
-<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+
+<a href="https://t.me/artyomka_tlt" target="_blank">
+<img src=https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 4px;" />
 </a>
+<a href="mailto:artyomka_working@mail.ru" target="_blank">
+<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 4px;" />
+</a>
+
 </div>
 
 ## Stats
