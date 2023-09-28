@@ -1,10 +1,13 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=5500&pause=7000&color=08E50A&background=000000&center=true&vCenter=true&width=500&lines=Hi!+My+name+is+Artyom)](https://git.io/typing-svg)
+[![Title](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=5500&pause=7000&color=08E50A&background=000000&center=true&vCenter=true&width=500&lines=Hi!+My+name+is+Artyom)](https://git.io/typing-svg)
 
 <!---
 <img align="right" src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 --->
 
+<!---
 ![counter](https://profile-counter.glitch.me/Kuznetsov-Artyom/count.svg)
+--->
+
 
 ## About me
 * Student of the University named after Lobachevsky.
@@ -22,7 +25,13 @@
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+## Сontacts
+
+<div align="left">
+<a href="mailto:artyomka_working@mail.ru" target="_blank">
+<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+</a>
+</div>
+
 ## Stats
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kuznetsov-Artyom&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kuznetsov-Artyom&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kuznetsov-Artyom&theme=github_dark&utcOffset=3)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kuznetsov-Artyom&show_icons=true&theme=dark)
