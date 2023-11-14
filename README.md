@@ -1,11 +1,6 @@
 [![Title](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=5500&pause=7000&color=08E50A&background=000000&center=true&vCenter=true&width=500&lines=Hi!+My+name+is+Artyom)](https://git.io/typing-svg)
 
-<!---
-<img align="right" src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
-
---->
-
-![counter](https://profile-counter.glitch.me/Kuznetsov-Artyom/count.svg)
+<!-- ![counter](https://profile-counter.glitch.me/Kuznetsov-Artyom/count.svg) -->
 
 ## About me
 * Student of the University named after Lobachevsky.
