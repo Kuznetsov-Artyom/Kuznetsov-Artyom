@@ -1,4 +1,4 @@
-[![Title](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=5500&pause=7000&color=08E50A&background=000000&center=true&vCenter=true&width=500&lines=Hi!+My+name+is+Artyom)](https://git.io/typing-svg)
+<!--[![Title](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=5500&pause=7000&color=08E50A&background=000000&center=true&vCenter=true&width=500&lines=Hi!+My+name+is+Artyom)](https://git.io/typing-svg)-->
 
 <!-- ![counter](https://profile-counter.glitch.me/Kuznetsov-Artyom/count.svg) -->
 
@@ -30,6 +30,7 @@
 </a>
 
 </div>
-
+<!--
 ## Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kuznetsov-Artyom&show_icons=true&theme=dark)
+-->
