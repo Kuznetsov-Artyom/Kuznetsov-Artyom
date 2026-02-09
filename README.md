@@ -3,9 +3,8 @@
 <!-- ![counter](https://profile-counter.glitch.me/Kuznetsov-Artyom/count.svg) -->
 
 ## About me
-* Student of the University named after Lobachevsky.
-* I like to do open source projects.
-* I have a positive attitude to constructive criticism.
+* Student of Lobachevsky University.
+* I am currently working in compiler development.
 
 <!-- ## Technical skills
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
